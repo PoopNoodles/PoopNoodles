@@ -1,16 +1,29 @@
-### Hi there 👋
+# [👋 Hi there, I am Sara](#Saludo)
 
-<!--
-**PoopNoodles/PoopNoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [About me:](##About.me)
+- 🌱 I am currently attending **FactoríaF5 Fullstack Web Developemnt + Cloud AWS Bootcamp** in Gijón, Spain.
 
-Here are some ideas to get you started:
+- 🌱 Going to resume learning about *Internet of Things (IoT)* in **LUCE Gijón** by the end of this month. Advanced level, here I go!🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 I enjoy playing videogames in my free time, specially  open-world RPG's and action-adventure ones. And am extremely curious about how they are made.
+
+- 🌐 I speak  English (pursuing to achieve C1 level) and Spanish (native).
+
+## [Current Stack](##current-stack)
+### Lenguajes de Programación:
+- JavaScript
+- C++
+
+### Herramientas
+- HTML
+- CSS
+- Git
+
+## [Contact](#contact)
+[Send me an e-mail!](mailto:sara00lorenzo@gmail.com)
+
+## [My Git Stats](##git-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PoopNoodles)
+
+
+
